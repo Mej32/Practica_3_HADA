@@ -1,0 +1,10 @@
+#Archivos a ignorar:
+proWeb/App_Data/
+library/obj/
+library/bin/
+packages/
+proWeb/Web.Debug.config
+proWeb/Web.Release.config
+proWeb/bin/
+proWeb/obj/
+.vs/
